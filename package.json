@@ -1,6 +1,6 @@
 {
-  "name": "testvgg",
-  "version": "0.0.0-development",
+  "name": "@chaincodedev/decentraland-transactions",
+  "version": "1.0.0",
   "main": "dist",
   "scripts": {
     "prebuild": "rimraf dist",
